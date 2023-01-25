@@ -4,11 +4,22 @@
     <option name="linkedExternalProjectsSettings">
       <GradleProjectSettings>
         <option name="distributionType" value="DEFAULT_WRAPPED" />
+<<<<<<< HEAD
         <option name="externalProjectPath" value="$PROJECT_DIR$/Main" />
         <option name="gradleJvm" value="17" />
         <option name="modules">
           <set>
             <option value="$PROJECT_DIR$/Main" />
+=======
+        <option name="externalProjectPath" value="$PROJECT_DIR$/main" />
+        <option name="gradleJvm" value="#JAVA_HOME" />
+        <option name="modules">
+          <set>
+            <option value="$PROJECT_DIR$/main" />
+            <option value="$PROJECT_DIR$/main/src" />
+            <option value="$PROJECT_DIR$/main/src/main" />
+            <option value="$PROJECT_DIR$/main/src/main/Inputs" />
+>>>>>>> e3d0ac8 (Added some of the basic stuff I had from the project i had before still working out the bugs getting the Rectangle to move off of mouse drag or key commands.)
           </set>
         </option>
       </GradleProjectSettings>

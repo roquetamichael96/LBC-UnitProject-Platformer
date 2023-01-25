@@ -2,7 +2,11 @@
 <project version="4">
   <component name="ExternalStorageConfigurationManager" enabled="true" />
   <component name="FrameworkDetectionExcludesConfiguration">
+<<<<<<< HEAD
     <file type="web" url="file://$PROJECT_DIR$/Main" />
+=======
+    <file type="web" url="file://$PROJECT_DIR$/main" />
+>>>>>>> e3d0ac8 (Added some of the basic stuff I had from the project i had before still working out the bugs getting the Rectangle to move off of mouse drag or key commands.)
   </component>
   <component name="ProjectRootManager">
     <output url="file://$PROJECT_DIR$/out" />

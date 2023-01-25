@@ -1,0 +1,4 @@
+rootProject.name = 'main'
+include 'src:main:Inputs'
+findProject(':src:main:Inputs')?.name = 'Inputs'
+
